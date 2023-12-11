@@ -2,7 +2,7 @@ ccccc# [:] Example Node Project
 cccc////
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,mmmllllcccc,,,,,,,,....cccffffffcccccdddd...    xcd...............///ccc//,,,x;////,...dcdddd//// mmmmmlllxsss...nnnnncccc....
 vvvvv...,,,,....kkkknnncccccfff
-## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgcccc
+## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgcccck;lp]l[p[
 ;;;;;;,mmvvvv
 ```wwwww...........ddddcccccxxxxxbbbb
 brew tap srcclr/srcclrccc
